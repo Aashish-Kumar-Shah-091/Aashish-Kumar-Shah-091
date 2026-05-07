@@ -1,98 +1,61 @@
 <h1 align="center">Hi 👋, I'm Aashish Kumar Shah</h1>
 
-<h3 align="center">
-AI & Backend Developer from Nepal 🇳🇵
-</h3>
+<h3 align="center">Django Backend Developer | AI Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Django+Developer;Django+REST+Developer;AI+Enthusiast;Future+RL+Engineer" />
+  <a href="mailto:shriram77890@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/aashish-kumar-shah-831a35326/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" />
+  </a>
 </p>
 
 ---
 
-# 💫 About Me
+## About Me
 
-- 🔭 Currently working on **Django**
-- 🌱 Learning **Deep Learning & Reinforcement Learning**
-- 💬 Ask me about **Django, DRF**
-- ⚡ Building AI healthcare systems(Hackathon project)
+- BSc Computing student from Nepal
+- Currently working with Django and Django REST Framework
+- Learning Deep Learning and Reinforcement Learning
+- Interested in AI-powered healthcare systems
+- Building practical backend and full-stack projects
 
 ---
 
-# 🌐 Connect With Me
+## Tech Stack
 
-<p align="left">
-<a href="https://www.linkedin.com/in/aashish-kumar-shah-831a35326/" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
-</a>
-
-<a href="mailto:shriram77890@gmail.com">
-<img align="center" src="https://skillicons.dev/icons?i=gmail" height="40" />
-</a>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,postgres,mysql,git,github,linux,vscode" />
 </p>
 
 ---
 
-# 💻 Tech Stack
+## Featured Projects
+
+### CareLoop
+AI-powered healthcare assistant for post-discharge patient support.
+
+**Features:** medical report extraction, symptom analysis, medicine reminders, emergency alerts  
+**Tech:** Django REST, React Native, AI
+
+### Home Rental System
+A real estate platform for property listing and rental management.
+
+**Features:** property listings, admin dashboard, authentication, chat system  
+**Tech:** Node.js, PostgreSQL
+
+---
+
+## GitHub Stats
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,django,postgres,mysql,git,github,linux,tensorflow,pytorch,vscode" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Aashish-Kumar-Shah-091&show_icons=true&theme=github_dark&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aashish-Kumar-Shah-091&layout=compact&theme=github_dark&hide_border=true" height="160" />
 </p>
 
 ---
 
-# 📊 GitHub Stats
-
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Aashish-Kumar-Shah-091&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180em"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aashish-Kumar-Shah-091&theme=tokyonight&hide_border=true&layout=compact" height="180em"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=Aashish-Kumar-Shah-091&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-# 📈 Activity Graph
-
-[![Aashish's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Aashish-Kumar-Shah-091&theme=tokyo-night)](https://github.com/Aashish-Kumar-Shah-091)
-
----
-
-# 🚀 Featured Projects
-
-## 🏥 CareLoop
-AI-powered healthcare assistant system.
-
-- Medical PDF extraction
-- AI symptom analysis
-- Medicine reminders
-- Emergency alerts
-
-**Tech:** Django REST + React Native + AI
-
----
-
-## 🏠 Home Rental System 
-Real estate management platform.
-
-- Property listings
-- Admin dashboard
-- Chat system
-- Authentication
-
-**Tech:** Node.js + PostgreSQL
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Aashish-Kumar-Shah-091&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=Aashish-Kumar-Shah-091&label=Profile%20Views&color=blue&style=flat" />
 </p>
