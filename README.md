@@ -26,7 +26,7 @@ AI & Backend Developer from Nepal 🇳🇵
 <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:shriram77890@gmail.com">
 <img align="center" src="https://skillicons.dev/icons?i=gmail" height="40" />
 </a>
 </p>
