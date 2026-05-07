@@ -5,7 +5,7 @@ AI & Backend Developer from Nepal 🇳🇵
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Django+REST+Developer;AI+Enthusiast;React+Native+Developer;Future+RL+Engineer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Django+Developer;Django+REST+Developer;AI+Enthusiast;Future+RL+Engineer" />
 </p>
 
 ---
