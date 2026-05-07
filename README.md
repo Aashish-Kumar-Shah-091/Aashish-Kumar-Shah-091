@@ -86,7 +86,3 @@ Real estate management platform.
 **Tech:** Django + Django Templates + Bootstrap
 
 ---
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Aashish-Kumar-Shah-091&label=Profile%20Views&color=58A6FF&style=flat" />
-</p>
