@@ -44,16 +44,11 @@ AI & Backend Developer from Nepal 🇳🇵
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aashish-Kumar-Shah-091&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Aashish-Kumar-Shah-091&show_icons=true&theme=github_dark&hide_border=true" />
 </p>
 
 ---
 
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Aashish-Kumar-Shah-091&theme=github-dark-blue&hide_border=true" />
-</p>
 
 ## 🔥 GitHub Streak
 
