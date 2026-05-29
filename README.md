@@ -36,7 +36,7 @@ Django Developer | Django REST Framework (DRF) Developer from Nepal 🇳🇵
 ## 💻 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,django,postgres,mysql,git,github,linux,vscode" />
+<img src="https://skillicons.dev/icons?i=python,django,mysql,linux,vscode" />
 </p>
 
 ---
