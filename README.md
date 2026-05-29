@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Aashish Kumar Shah</h1>
 
 <h3 align="center">
-AI & Backend Developer from Nepal 🇳🇵
+Django Developer | Django REST Framework (DRF) Developer from Nepal 🇳🇵
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Django+Developer;Django+REST+Developer;AI+Enthusiast;Future+RL+Engineer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Django+Developer;Django+REST+Framework+Developer" />
 </p>
 
 ---
@@ -13,9 +13,9 @@ AI & Backend Developer from Nepal 🇳🇵
 ## 💫 About Me
 
 - 🔭 Currently working on **Django**
-- 🌱 Learning **Deep Learning & Reinforcement Learning**
-- 💬 Ask me about **Django, DRF**
-- ⚡ Building AI healthcare systems
+- 🌱 Focused on **Django REST Framework (DRF)**
+- 💬 Ask me about **Django, DRF APIs**
+- ⚡ Building backend systems using Django
 
 ---
 
@@ -36,7 +36,7 @@ AI & Backend Developer from Nepal 🇳🇵
 ## 💻 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,django,postgres,mysql,git,github,linux,tensorflow,pytorch,vscode" />
+<img src="https://skillicons.dev/icons?i=python,django,postgres,mysql,git,github,linux,vscode" />
 </p>
 
 ---
@@ -49,40 +49,8 @@ AI & Backend Developer from Nepal 🇳🇵
 
 ---
 
-
 ## 🔥 GitHub Streak
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=Aashish-Kumar-Shah-091&theme=github-dark-blue&hide_border=true"/>
 </p>
-
----
-
-## 🚀 Featured Projects
-
-### 🏥 CareLoop
-AI-powered healthcare assistant system.
-
-- Medical PDF extraction
-- AI symptom analysis
-- Medicine reminders
-- Emergency alerts
-
-**Tech:** Django REST + React Native + AI
-
----
-
-### 🏠 Home Rental System
-
-Real estate management platform.
-
-- Property listings
-- Admin dashboard
-- Chat system
-- Authentication
-- Payment Method
-- SMTP integrated
-
-**Tech:** Django + Django Templates + Bootstrap
-
----
